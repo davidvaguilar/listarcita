@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ListarCita</string>
+    <string name="subtitulo_lista">Mis citas medicas</string>
+</resources>
